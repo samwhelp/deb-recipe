@@ -1,0 +1,6 @@
+cook-appearance-fluent-kde-theme (0.1.1) unstable; urgency=low
+
+  * Initial release  <develop@home.heaven>
+  * Skel create debian package for downloa wallpaper collection
+
+ -- Develop Team <develop@home.heaven>  Mon, 02 Dec 2024 05:20:14 +0800
