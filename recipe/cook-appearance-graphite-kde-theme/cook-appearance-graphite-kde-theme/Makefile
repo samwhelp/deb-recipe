@@ -84,5 +84,5 @@ deb-build-dep:
 
 
 deb-build:
-	dpkg-buildpackage -b -uc -us -tc -j$(nproc)
+	dpkg-buildpackage -b -uc -us -tc
 .PHONY: deb-build
