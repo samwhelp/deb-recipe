@@ -77,7 +77,7 @@ util_copy_from_srcdir_to_desdir () {
 
 mod_theme_install_aurorae_theme () {
 
-	local src_dir_path="${prjdir}/aurorae"
+	local src_dir_path="${prjdir}/aurorae/themes"
 	local des_dir_path="${pkgdir}/usr/share/aurorae/themes"
 
 	util_copy_from_srcdir_to_desdir "${src_dir_path}" "${des_dir_path}"
