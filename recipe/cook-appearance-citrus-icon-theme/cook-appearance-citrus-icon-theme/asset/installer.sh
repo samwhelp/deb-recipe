@@ -68,6 +68,14 @@ util_copy_from_srcdir_to_desdir () {
 
 }
 
+util_index_theme_inherits_set () {
+
+	local value="${1}"
+	local index_theme_file_path="${2}"
+	sed -i "s|^Inherits=.*|Inherits=${value}|g" "${index_theme_file_path}"
+
+}
+
 
 
 
@@ -103,6 +111,23 @@ mod_theme_install_icon_theme () {
 	echo
 	echo cd "${OLDPWD}"
 	cd "${OLDPWD}"
+
+
+
+
+	local inherits_light="Numix-Circle-Light,Numix-Light,Papirus-Light,Adwaita,hicolor"
+	local inherits_dark="Numix-Circle,Numix,Papirus-Dark,Adwaita,hicolor"
+
+	echo
+	echo util_index_theme_inherits_set "${inherits_light}" "${icons_dir_path}/Citrus-red/index.theme"
+	echo
+	util_index_theme_inherits_set "${inherits_light}" "${icons_dir_path}/Citrus-red/index.theme"
+
+
+	echo
+	echo util_index_theme_inherits_set "${inherits_dark}" "${icons_dir_path}/Citrus-red-dark/index.theme"
+	echo
+	util_index_theme_inherits_set "${inherits_dark}" "${icons_dir_path}/Citrus-red-dark/index.theme"
 
 
 
