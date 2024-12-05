@@ -33,6 +33,7 @@
 | [cook-appearance-graphite-kde-theme](https://github.com/samwhelp/deb-recipe/tree/main/recipe/cook-appearance-graphite-kde-theme/cook-appearance-graphite-kde-theme) | [Source](https://github.com/vinceliuice/Graphite-kde-theme) |
 | [cook-appearance-fluent-kde-theme](https://github.com/samwhelp/deb-recipe/tree/main/recipe/cook-appearance-fluent-kde-theme/cook-appearance-fluent-kde-theme) | [Source](https://github.com/vinceliuice/Fluent-kde) |
 | [cook-appearance-layan-kde-theme](https://github.com/samwhelp/deb-recipe/tree/main/recipe/cook-appearance-layan-kde-theme/cook-appearance-layan-kde-theme) | [Source](https://github.com/vinceliuice/Layan-kde) |
+| [cook-appearance-colloid-kde-theme](https://github.com/samwhelp/deb-recipe/tree/main/recipe/cook-appearance-colloid-kde-theme/cook-appearance-colloid-kde-theme) | [Source](https://github.com/vinceliuice/Colloid-kde) |
 | [cook-appearance-chromeos-kde-theme](https://github.com/samwhelp/deb-recipe/tree/main/recipe/cook-appearance-chromeos-kde-theme/cook-appearance-chromeos-kde-theme) | [Source](https://github.com/vinceliuice/ChromeOS-kde) |
 
 
