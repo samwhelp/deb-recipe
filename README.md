@@ -36,6 +36,7 @@
 | [cook-appearance-colloid-kde-theme](https://github.com/samwhelp/deb-recipe/tree/main/recipe/cook-appearance-colloid-kde-theme/cook-appearance-colloid-kde-theme) | [Source](https://github.com/vinceliuice/Colloid-kde) |
 | [cook-appearance-qogir-kde-theme](https://github.com/samwhelp/deb-recipe/tree/main/recipe/cook-appearance-qogir-kde-theme/cook-appearance-qogir-kde-theme) | [Source](https://github.com/vinceliuice/Qogir-kde) |
 | [cook-appearance-lavanda-kde-theme](https://github.com/samwhelp/deb-recipe/tree/main/recipe/cook-appearance-lavanda-kde-theme/cook-appearance-lavanda-kde-theme) | [Source](https://github.com/vinceliuice/Lavanda-kde) |
+| [cook-appearance-matcha-kde-theme](https://github.com/samwhelp/deb-recipe/tree/main/recipe/cook-appearance-matcha-kde-theme/cook-appearance-matcha-kde-theme) | [Source](https://github.com/vinceliuice/Matcha-kde) |
 | [cook-appearance-chromeos-kde-theme](https://github.com/samwhelp/deb-recipe/tree/main/recipe/cook-appearance-chromeos-kde-theme/cook-appearance-chromeos-kde-theme) | [Source](https://github.com/vinceliuice/ChromeOS-kde) |
 
 
@@ -49,4 +50,5 @@
 | [cook-appearance-colloid-gtk-theme](https://github.com/samwhelp/deb-recipe/tree/main/recipe/cook-appearance-colloid-gtk-theme/cook-appearance-colloid-gtk-theme) | [Source](https://github.com/vinceliuice/Colloid-gtk-theme) |
 | [cook-appearance-qogir-gtk-theme](https://github.com/samwhelp/deb-recipe/tree/main/recipe/cook-appearance-qogir-gtk-theme/cook-appearance-qogir-gtk-theme) | [Source](https://github.com/vinceliuice/Qogir-theme) |
 | [cook-appearance-lavanda-gtk-theme](https://github.com/samwhelp/deb-recipe/tree/main/recipe/cook-appearance-lavanda-gtk-theme/cook-appearance-lavanda-gtk-theme) | [Source](https://github.com/vinceliuice/Lavanda-gtk-theme) |
+| [cook-appearance-matcha-gtk-theme](https://github.com/samwhelp/deb-recipe/tree/main/recipe/cook-appearance-matcha-gtk-theme/cook-appearance-matcha-gtk-theme) | [Source](https://github.com/vinceliuice/Matcha-gtk-theme) |
 | [cook-appearance-chromeos-gtk-theme](https://github.com/samwhelp/deb-recipe/tree/main/recipe/cook-appearance-chromeos-gtk-theme/cook-appearance-chromeos-gtk-theme) | [Source](https://github.com/vinceliuice/ChromeOS-theme) |
