@@ -38,6 +38,7 @@
 
 | Recipe | Source |
 | ------ | ------ |
+| [cook-appearance-vimix-gtk-theme](https://github.com/samwhelp/deb-recipe/tree/main/recipe/cook-appearance-vimix-gtk-theme/cook-appearance-vimix-gtk-theme) | [Source](https://github.com/vinceliuice/Vimix-gtk-themes) |
 | [cook-appearance-orchis-gtk-theme](https://github.com/samwhelp/deb-recipe/tree/main/recipe/cook-appearance-orchis-gtk-theme/cook-appearance-orchis-gtk-theme) | [Source](https://github.com/vinceliuice/Orchis-theme) |
 
 
