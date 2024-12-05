@@ -43,6 +43,7 @@
 | [cook-appearance-graphite-gtk-theme](https://github.com/samwhelp/deb-recipe/tree/main/recipe/cook-appearance-graphite-gtk-theme/cook-appearance-graphite-gtk-theme) | [Source](https://github.com/vinceliuice/Graphite-gtk-theme) |
 | [cook-appearance-fluent-gtk-theme](https://github.com/samwhelp/deb-recipe/tree/main/recipe/cook-appearance-fluent-gtk-theme/cook-appearance-fluent-gtk-theme) | [Source](https://github.com/vinceliuice/Fluent-gtk-theme) |
 | [cook-appearance-layan-gtk-theme](https://github.com/samwhelp/deb-recipe/tree/main/recipe/cook-appearance-layan-gtk-theme/cook-appearance-layan-gtk-theme) | [Source](https://github.com/vinceliuice/Layan-gtk-theme) |
+| [cook-appearance-chromeos-gtk-theme](https://github.com/samwhelp/deb-recipe/tree/main/recipe/cook-appearance-chromeos-gtk-theme/cook-appearance-chromeos-gtk-theme) | [Source](https://github.com/vinceliuice/ChromeOS-theme) |
 
 
 
