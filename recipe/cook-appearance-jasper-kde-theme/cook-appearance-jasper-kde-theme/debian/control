@@ -1,0 +1,17 @@
+Source: cook-appearance-jasper-kde-theme
+Section: devel
+Priority: optional
+Maintainer: Develop Team <develop@home.heaven>
+Build-Depends: debhelper (>= 9),
+               make
+Standards-Version: 4.5.0
+Homepage: https://samwhelp.github.io/deb-recipe/
+Vcs-Browser: https://github.com/samwhelp/deb-recipe
+Vcs-Git: https://github.com/samwhelp/deb-recipe.git
+
+Package: cook-appearance-jasper-kde-theme
+Architecture: any
+Depends: ${misc:Depends},
+         ${shlibs:Depends}
+Description: Demo Skel Build Debian Package
+ Skel create debian package for downloa wallpaper collection.
