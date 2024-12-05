@@ -7,4 +7,4 @@
 
 ## Source
 
-* vinceliuice / [Orchis-theme](https://github.com/vinceliuice/Vimix-gtk-themes)
+* vinceliuice / [Vimix-gtk-themes](https://github.com/vinceliuice/Vimix-gtk-themes)
