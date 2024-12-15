@@ -77,6 +77,13 @@
 | [cook-appearance-cross-grub-theme](https://github.com/samwhelp/deb-recipe/tree/main/recipe/cook-appearance-cross-grub-theme/cook-appearance-cross-grub-theme) | [Source](https://github.com/samwhelp/grub-theme-cross-remix) |
 
 
+### xfwm-theme
+
+| Recipe | Source |
+| ------ | ------ |
+| [cook-appearance-rgaps-xfwm-theme](https://github.com/samwhelp/deb-recipe/tree/main/recipe/cook-appearance-rgaps-xfwm-theme/cook-appearance-rgaps-xfwm-theme) | [Source](https://github.com/samwhelp/rgaps-theme-collection) |
+
+
 
 
 ## Link
