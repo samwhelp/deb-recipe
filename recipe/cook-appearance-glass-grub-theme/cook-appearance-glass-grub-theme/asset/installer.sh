@@ -38,7 +38,7 @@ DESTDIR="${DESTDIR:=$DEFAULT_DESTDIR}"
 
 
 ##
-## ## Kde Theme / Util
+## ## Theme / Util
 ##
 
 util_copy_from_srcdir_to_desdir () {
