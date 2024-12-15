@@ -70,7 +70,8 @@
 
 | Recipe | Source |
 | ------ | ------ |
-| [cook-appearance-glass-grub-theme](https://github.com/samwhelp/deb-recipe/tree/main/recipe/cook-appearance-glass-grub-theme/cook-appearance-glass-grub-theme) | [Source](https://github.com/samwhelp/grub-theme-glass) |
+| [cook-appearance-score-grub-theme](https://github.com/samwhelp/deb-recipe/tree/main/recipe/cook-appearance-score-grub-theme/cook-appearance-score-grub-theme) | [Source](https://github.com/samwhelp/grub-theme-score-remix) |
+| [cook-appearance-glass-grub-theme](https://github.com/samwhelp/deb-recipe/tree/main/recipe/cook-appearance-glass-grub-theme/cook-appearance-glass-grub-theme) | [Source](https://github.com/samwhelp/grub-theme-glass-remix) |
 
 
 
