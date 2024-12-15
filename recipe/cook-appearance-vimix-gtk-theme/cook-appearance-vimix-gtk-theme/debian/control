@@ -13,5 +13,5 @@ Package: cook-appearance-vimix-gtk-theme
 Architecture: any
 Depends: ${misc:Depends},
          ${shlibs:Depends}
-Description: Demo Skel Build Debian Package
- Skel create debian package for downloa wallpaper collection.
+Description: Vimix Gtk Theme
+ Vimix Theme for Gtk.
