@@ -17,15 +17,22 @@
 
 ## Recipe
 
+
+### wallpaper
+
 | Recipe |
 | ------ |
 | [cook-wallpaper-collection](https://github.com/samwhelp/deb-recipe/tree/main/recipe/cook-wallpaper-collection/cook-wallpaper-collection) |
 
 
+### icon-theme
+
 | Recipe | Source |
 | ------ | ------ |
 | [cook-appearance-citrus-icon-theme](https://github.com/samwhelp/deb-recipe/tree/main/recipe/cook-appearance-citrus-icon-theme/cook-appearance-citrus-icon-theme) | [Source](https://github.com/yeyushengfan258/Citrus-icon-theme) |
 
+
+### kde-theme
 
 | Recipe | Source |
 | ------ | ------ |
@@ -42,6 +49,8 @@
 | [cook-appearance-chromeos-kde-theme](https://github.com/samwhelp/deb-recipe/tree/main/recipe/cook-appearance-chromeos-kde-theme/cook-appearance-chromeos-kde-theme) | [Source](https://github.com/vinceliuice/ChromeOS-kde) |
 
 
+### gtk-theme
+
 | Recipe | Source |
 | ------ | ------ |
 | [cook-appearance-vimix-gtk-theme](https://github.com/samwhelp/deb-recipe/tree/main/recipe/cook-appearance-vimix-gtk-theme/cook-appearance-vimix-gtk-theme) | [Source](https://github.com/vinceliuice/Vimix-gtk-themes) |
@@ -55,6 +64,13 @@
 | [cook-appearance-matcha-gtk-theme](https://github.com/samwhelp/deb-recipe/tree/main/recipe/cook-appearance-matcha-gtk-theme/cook-appearance-matcha-gtk-theme) | [Source](https://github.com/vinceliuice/Matcha-gtk-theme) |
 | [cook-appearance-canta-gtk-theme](https://github.com/samwhelp/deb-recipe/tree/main/recipe/cook-appearance-canta-gtk-theme/cook-appearance-canta-gtk-theme) | [Source](https://github.com/vinceliuice/Canta-theme) |
 | [cook-appearance-chromeos-gtk-theme](https://github.com/samwhelp/deb-recipe/tree/main/recipe/cook-appearance-chromeos-gtk-theme/cook-appearance-chromeos-gtk-theme) | [Source](https://github.com/vinceliuice/ChromeOS-theme) |
+
+
+### grub-theme
+
+| Recipe | Source |
+| ------ | ------ |
+| [cook-appearance-glass-grub-theme](https://github.com/samwhelp/deb-recipe/tree/main/recipe/cook-appearance-glass-grub-theme/cook-appearance-glass-grub-theme) | [Source](https://github.com/samwhelp/grub-theme-glass) |
 
 
 
