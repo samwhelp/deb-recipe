@@ -126,7 +126,8 @@ mod_theme_install_sddm_theme () {
 
 	util_copy_from_srcdir_to_desdir "${src_dir_path}" "${des_dir_path}"
 
-	rm -f "${des_dir_path}/install-nord.sh"
+
+	rm -rf "${des_dir_path}/backgrounds"
 	rm -f "${des_dir_path}/install.sh"
 	rm -f "${des_dir_path}/README.md"
 
