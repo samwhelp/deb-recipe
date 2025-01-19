@@ -17,6 +17,15 @@
 
 ## Recipe
 
+* [wallpaper](#wallpaper)
+* [icon-theme](#icon-theme)
+* [kde-theme](#kde-theme)
+* [gtk-theme](#gtk-theme)
+* [grub-theme](#grub-theme)
+* [xfwm-theme](#xfwm-theme)
+
+
+
 
 ### wallpaper
 
