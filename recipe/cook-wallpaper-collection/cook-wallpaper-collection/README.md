@@ -6,7 +6,7 @@
 
 ## Link
 
-* [wallpaper-collection-download](https://github.com/samwhelp/demo-create-debian-package/tree/main/demo/wallpaper-collection/wallpaper-collection-download/demo-wallpaper-collection)
+* [wallpaper-collection-via-download](https://github.com/samwhelp/demo-create-debian-package/tree/main/demo/wallpaper-collection/wallpaper-collection-via-download/demo-wallpaper-collection)
 
 
 
