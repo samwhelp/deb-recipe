@@ -100,6 +100,7 @@
 | Link | GitHub |
 | ---- | ------ |
 | [deb-coffee](https://samwhelp.github.io/deb-coffee/) | [GitHub](https://github.com/samwhelp/deb-coffee) |
+| [demo-create-debian-package](https://samwhelp.github.io/demo-create-debian-package/) | [GitHub](https://github.com/samwhelp/demo-create-debian-package) |
 
 
 
